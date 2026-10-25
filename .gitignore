@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+server/private_uploads/
+npm-debug.log*
